@@ -14,5 +14,9 @@ to show that audio is being sampled.
 I hope this is of use to someone else and would love to have someone try it on 
 an Arduino.  The boards cost $28 and the BOM cost is $35.72
 
+I do not recommend making a substitution on the operational amplifiers.  Initially
+I had trouble with the minus supply sagging and the amplifier specified does not
+bring down the supply
+
 Clyde R. Shappee
 Walpole, MA
